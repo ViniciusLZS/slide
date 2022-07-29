@@ -4,7 +4,7 @@
 
 
 <div align="center"> 
-<a href="https://viniciuslzs.github.io/slide/" target="_blank"><img src="https://user-images.githubusercontent.com/99357388/181847197-73bf8067-9f06-4629-85e2-561daaa65f21.png" width="800" height="700px"/></a>
+<a href="https://viniciuslzs.github.io/slide/" target="_blank"><img src="https://user-images.githubusercontent.com/99357388/181848546-faea7b8d-c5ee-476d-9497-45716e261f0a.png" width="800" height="500px"/></a>
 </div>
 
 
